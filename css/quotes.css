@@ -1,0 +1,25 @@
+body{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+h3{
+    font-size: 40px;
+
+}
+.btn{
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
+.container{
+    background-image: url(../imgs/pexels-simon-berger-1323550.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+    box-shadow: 0 3rem 3rem -2rem black;
+
+   
+}
